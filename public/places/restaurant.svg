@@ -1,0 +1,13 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#fef2f2"/>
+  <circle cx="400" cy="300" r="180" fill="white" stroke="#dc2626" stroke-width="8"/>
+  <circle cx="400" cy="300" r="150" fill="white" stroke="#dc2626" stroke-width="3"/>
+  <ellipse cx="350" cy="280" rx="40" ry="30" fill="#ef4444"/>
+  <ellipse cx="420" cy="320" rx="50" ry="35" fill="#22c55e"/>
+  <ellipse cx="380" cy="350" rx="35" ry="25" fill="#f59e0b"/>
+  <rect x="500" y="200" width="8" height="150" fill="#737373"/>
+  <ellipse cx="504" cy="200" rx="25" ry="40" fill="#a3a3a3"/>
+  <rect x="280" y="200" width="8" height="150" fill="#737373"/>
+  <ellipse cx="284" cy="200" rx="25" ry="40" fill="#a3a3a3"/>
+  <text x="400" y="530" font-family="system-ui" font-size="48" font-weight="bold" fill="#dc2626" text-anchor="middle">DINING</text>
+</svg>

@@ -11,6 +11,7 @@ export interface Event {
   coordinates: [number, number]
   link: string | null
   featured?: boolean
+  tags?: string[]
 }
 
 export interface Place {

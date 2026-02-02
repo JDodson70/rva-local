@@ -1,0 +1,16 @@
+<svg width="600" height="800" viewBox="0 0 600 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="800" fill="#fecdd3"/>
+  <ellipse cx="300" cy="450" rx="250" ry="200" fill="#16a34a"/>
+  <ellipse cx="300" cy="450" rx="230" ry="180" fill="#dc2626"/>
+  <ellipse cx="300" cy="450" rx="200" ry="150" fill="#fecaca"/>
+  <circle cx="250" cy="420" r="8" fill="#1a1a1a"/>
+  <circle cx="300" cy="480" r="8" fill="#1a1a1a"/>
+  <circle cx="350" cy="400" r="8" fill="#1a1a1a"/>
+  <circle cx="280" cy="500" r="8" fill="#1a1a1a"/>
+  <circle cx="330" cy="450" r="8" fill="#1a1a1a"/>
+  <text x="300" y="120" font-family="system-ui" font-size="48" font-weight="bold" fill="#dc2626" text-anchor="middle">CARYTOWN</text>
+  <text x="300" y="200" font-family="system-ui" font-size="72" font-weight="bold" fill="#16a34a" text-anchor="middle">WATERMELON</text>
+  <text x="300" y="280" font-family="system-ui" font-size="64" font-weight="bold" fill="#dc2626" text-anchor="middle">FESTIVAL</text>
+  <text x="300" y="720" font-family="system-ui" font-size="28" fill="#16a34a" text-anchor="middle">BIGGEST STREET FESTIVAL</text>
+  <text x="300" y="760" font-family="system-ui" font-size="28" fill="#16a34a" text-anchor="middle">ON THE EAST COAST</text>
+</svg>

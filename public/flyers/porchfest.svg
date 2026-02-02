@@ -1,0 +1,17 @@
+<svg width="600" height="800" viewBox="0 0 600 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="800" fill="#fef7cd"/>
+  <rect x="100" y="350" width="400" height="300" fill="#92400e"/>
+  <polygon points="100,350 300,180 500,350" fill="#dc2626"/>
+  <rect x="250" y="500" width="100" height="150" fill="#451a03"/>
+  <rect x="140" y="420" width="70" height="70" fill="#fef3c7"/>
+  <rect x="390" y="420" width="70" height="70" fill="#fef3c7"/>
+  <rect x="145" y="425" width="28" height="60" fill="#7dd3fc"/>
+  <rect x="177" y="425" width="28" height="60" fill="#7dd3fc"/>
+  <rect x="395" y="425" width="28" height="60" fill="#7dd3fc"/>
+  <rect x="427" y="425" width="28" height="60" fill="#7dd3fc"/>
+  <text x="300" y="100" font-family="system-ui" font-size="56" font-weight="bold" fill="#92400e" text-anchor="middle">SCOTT'S ADDITION</text>
+  <text x="300" y="200" font-family="system-ui" font-size="96" font-weight="bold" fill="#dc2626" text-anchor="middle">PORCH</text>
+  <text x="300" y="290" font-family="system-ui" font-size="96" font-weight="bold" fill="#92400e" text-anchor="middle">FEST</text>
+  <text x="300" y="720" font-family="system-ui" font-size="28" fill="#92400e" text-anchor="middle">FREE NEIGHBORHOOD MUSIC</text>
+  <text x="300" y="760" font-family="system-ui" font-size="24" fill="#dc2626" text-anchor="middle">LIVE BANDS ON PORCHES + PATIOS</text>
+</svg>

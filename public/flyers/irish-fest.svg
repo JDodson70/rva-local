@@ -1,0 +1,13 @@
+<svg width="600" height="800" viewBox="0 0 600 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="800" fill="#065f46"/>
+  <rect x="0" y="0" width="200" height="800" fill="#047857"/>
+  <rect x="400" y="0" width="200" height="800" fill="#d97706"/>
+  <circle cx="300" cy="350" r="200" fill="white"/>
+  <circle cx="300" cy="350" r="160" fill="none" stroke="#065f46" stroke-width="20"/>
+  <path d="M300 220 L300 280 M260 250 Q300 290 340 250" stroke="#065f46" stroke-width="15" fill="none"/>
+  <circle cx="300" cy="380" r="60" fill="#065f46"/>
+  <text x="300" y="600" font-family="system-ui" font-size="56" font-weight="bold" fill="white" text-anchor="middle">CHURCH HILL</text>
+  <text x="300" y="670" font-family="system-ui" font-size="48" fill="#fbbf24" text-anchor="middle">IRISH FESTIVAL</text>
+  <text x="300" y="740" font-family="system-ui" font-size="28" fill="white" text-anchor="middle">MUSIC + DANCING + FOOD</text>
+  <text x="300" y="780" font-family="system-ui" font-size="24" fill="white" text-anchor="middle" opacity="0.8">ST. PATRICK'S CHURCH</text>
+</svg>
