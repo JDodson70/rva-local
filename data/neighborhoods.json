@@ -1,0 +1,52 @@
+[
+  {
+    "id": "the-fan",
+    "name": "The Fan",
+    "description": "Historic neighborhood known for Victorian architecture and vibrant street life"
+  },
+  {
+    "id": "carytown",
+    "name": "Carytown",
+    "description": "Mile-long shopping district with eclectic shops, restaurants, and boutiques"
+  },
+  {
+    "id": "scotts-addition",
+    "name": "Scott's Addition",
+    "description": "Trendy area packed with breweries, cideries, and creative spaces"
+  },
+  {
+    "id": "shockoe-bottom",
+    "name": "Shockoe Bottom",
+    "description": "Historic district with cobblestone streets and nightlife"
+  },
+  {
+    "id": "church-hill",
+    "name": "Church Hill",
+    "description": "Richmond's oldest neighborhood with historic sites and city views"
+  },
+  {
+    "id": "jackson-ward",
+    "name": "Jackson Ward",
+    "description": "Historic African American neighborhood, birthplace of Black capitalism"
+  },
+  {
+    "id": "manchester",
+    "name": "Manchester",
+    "description": "Revitalized southside neighborhood with industrial charm and river views"
+  },
+  {
+    "id": "arts-district",
+    "name": "Arts District",
+    "description": "Downtown cultural hub with galleries, theaters, and First Fridays"
+  },
+  {
+    "id": "museum-district",
+    "name": "Museum District",
+    "description": "Tree-lined streets near VMFA with cafes and local shops"
+  },
+  {
+    "id": "oregon-hill",
+    "name": "Oregon Hill",
+    "description": "Close-knit community overlooking Hollywood Cemetery and the James River"
+  }
+]
